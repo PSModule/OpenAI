@@ -1,4 +1,4 @@
-# PSModuleTemplate
+# OpenAI
 
 A PowerShell module template that can be used to create new modules.
 
