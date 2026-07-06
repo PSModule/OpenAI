@@ -1,10 +1,10 @@
 # OpenAI
 
-OpenAI is intended to be a PowerShell module for interacting with OpenAI.
+OpenAI is intended to be a PowerShell module for interacting with the OpenAI API.
 
 ## Status
 
-This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported commands or usage examples to document yet.
+This repository is currently a placeholder. The module source still contains scaffolding code, so there are no supported commands or usage examples to document yet.
 
 ## Documentation
 
