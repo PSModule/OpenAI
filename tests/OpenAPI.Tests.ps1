@@ -1,4 +1,6 @@
-﻿Describe 'Module' {
+﻿#Requires -Modules @{ ModuleName = 'Pester'; ModuleVersion = '6.0.0'; MaximumVersion = '6.*' }
+
+Describe 'Module' {
     Context "Function: 'Test-PSModuleTemplate'" {
         It 'Should be able to call the function' {
             Test-PSModuleTemplate -Name 'World' | Should -Be 'Hello, World!'
